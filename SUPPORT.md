@@ -1,7 +1,7 @@
 # Support
 
 - Email: support@yourdomain.com
-- FAQ: https://yourdomain.com/support
+- FAQ: https://github.com/olegbo/bikechainrings#readme
 - Issue template:
   - Device/OS:
   - App version:

@@ -25,9 +25,9 @@
 - Улучшенный дизайн и отступы на экранах.
 
 ## URL’ы
-- Marketing: https://yourdomain.com/velozvezdy
-- Support: https://yourdomain.com/support
-- Privacy: https://yourdomain.com/privacy
+- Marketing: https://github.com/olegbo/bikechainrings
+- Support: https://github.com/olegbo/bikechainrings/issues
+- Privacy: https://github.com/olegbo/bikechainrings/blob/main/PRIVACY_POLICY_RU.md
 
 ## Конфиденциальность
 - Data Not Collected; отслеживание отсутствует. Настройки хранятся локально.

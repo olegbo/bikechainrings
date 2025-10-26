@@ -23,9 +23,9 @@ bicycle, gear ratio, chainring, sprocket, drivetrain, road, mtb, bmx, track, rac
 - Improved design and spacing.
 
 ## URLs
-- Marketing: https://yourdomain.com/velozvezdy
-- Support: https://yourdomain.com/support
-- Privacy: https://yourdomain.com/privacy
+- Marketing: https://github.com/olegbo/bikechainrings
+- Support: https://github.com/olegbo/bikechainrings/issues
+- Privacy: https://github.com/olegbo/bikechainrings/blob/main/PRIVACY_POLICY_EN.md
 
 ## Privacy
 - Data Not Collected; no tracking. Settings are stored on device.
